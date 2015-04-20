@@ -1,5 +1,5 @@
-The Scalable Synthesis
-----------------------
+The Scalability Connection
+--------------------------
 
 Application requirements have changed dramatically in recent years. Only a few years ago a large application had tens of servers, seconds of response time, hours of offline maintenance and gigabytes of data. Today applications are deployed on everything from mobile devices to cloud-based clusters running thousands of multi-core processors. Users expect millisecond response times and 100% uptime. Data is measured in Petabytes. Today's demands are not met by yesterday’s software architectures. New architectures need to be Adaptive and Resilient. We can synthesize those requirements by naming them Scalable Systems. Scalable Systems are typically loosely-coupled and this makes them easier to develop and amenable to change.
 
@@ -11,4 +11,4 @@ Application requirements have changed dramatically in recent years. Only a few y
 
 In addition, Scalable Systems can leverage [message-passing](/glossary#Message-Driven) and [actor systems](/glossary#Actor-Systems) to establish a boundary between components that enable loose coupling, isolation, [location transparency](/glossary#Location-Transparency) and delegating [errors](/glossary#Failure). Actor systems facilitates load management, elasticity, and flow control by shaping and monitoring the message queues in the system and applying [back-pressure](/glossary#Back-Pressure) when necessary. Location transparent messaging as a means of communication makes it possible for the management of failure to work with the same constructs and semantics across a cluster or within a single host.
 
-[Sign the synthesis](http://www.scalablesynthesis.org/)
+[Sign the Connection](http://www.scalabilityconnection.org/)
